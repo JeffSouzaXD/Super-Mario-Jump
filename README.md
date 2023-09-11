@@ -1,6 +1,13 @@
 ## Overview
 
-Super Mario Jump is a simple web-based game created using HTML, CSS, JavaScript, and a touch of Bootstrap. In this game, you take on the role of the iconic Super Mario and your objective is to jump over obstacles within the time limit.
+Super Mario Jump is a simple web-based game created using:
+<div style = "display: inline_block"></br>
+    <img align_item ="center" alt = "Javascript" src = "https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+    <img align_item ="center" alt = "HTML5" src = "https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+    <img align_item ="center" alt = "CSS3" src = "https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/> 
+    <img align_item = "center" alt = "Bootstrap" src = "https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+</div></br>
+In this game, you take on the role of the iconic Super Mario and your objective is to jump over obstacles within the time limit.
 
 ## Features
 - Play as Super Mario in a classic gaming environment.
@@ -28,29 +35,36 @@ If you'd like to contribute to this project or report any issues, please feel fr
 **Note:** This project is for educational and entertainment purposes only and is not affiliated with Nintendo or the Super Mario franchise.
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Visão Geral
-Super Mario Jump é um simples jogo baseado na web criado usando HTML, CSS, JavaScript e um toque de Bootstrap. Neste jogo, você assume o papel do icônico Super Mario, e seu objetivo é pular sobre obstáculos dentro do limite de tempo.
+## Visão Geral
+Super Mario Jump desenvolvi usando:
+<div style = "display: inline_block"></br>
+    <img align_item ="center" alt = "Javascript" src = "https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+    <img align_item ="center" alt = "HTML5" src = "https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+    <img align_item ="center" alt = "CSS3" src = "https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/> 
+    <img align_item = "center" alt = "Bootstrap" src = "https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+</div></br>
+Neste jogo, você assume o papel do icônico Super Mario, e seu objetivo é pular sobre obstáculos dentro do limite de tempo.
 
-Recursos
+## Recursos
 Jogue como Super Mario em um ambiente clássico de jogos.
 Três níveis de dificuldade para testar suas habilidades: Fácil, Médio e Super.
 Os obstáculos ficam progressivamente mais rápidos à medida que você escolhe níveis de dificuldade mais altos.
 Você tem um total de 15 segundos para navegar por cada fase e superar os obstáculos.
 Desfrute de uma experiência nostálgica de jogo com um toque moderno.
 
-Como Jogar
+## Como Jogar
 Escolha o nível de dificuldade desejado: Fácil, Médio ou Super.
 Controle o salto do Super Mario usando qualquer botão.
 Desvie dos obstáculos conforme eles aparecem em seu caminho.
 Alcance a linha de chegada dentro do limite de tempo para vencer o jogo.
 
-Instalação
+## Instalação
 Para jogar o Super Mario Jump, você não precisa instalar nada. Basta abrir o arquivo home.html em seu navegador da web preferido, e o jogo começará imediatamente.
 
-Contribuições
+## Contribuições
 Se você deseja contribuir para este projeto ou relatar problemas, sinta-se à vontade para abrir uma issue ou enviar uma pull request no repositório do GitHub do projeto.
 
-Créditos
+## Créditos
 O personagem Super Mario e os recursos são propriedade da Nintendo.
 Este projeto foi inspirado nos jogos de plataforma clássicos.
 Observação: Este projeto é apenas para fins educacionais e de entretenimento e não possui afiliação com a Nintendo ou a franquia Super Mario.
